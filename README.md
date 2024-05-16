@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🏀
 
-<!--
-**felipefariap/felipefariap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é felipe faria
 
-Here are some ideas to get you started:
+Estou estudando na maria mathilde
+-Eu estou aprendendo a linguagem javascript
+-Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫: 
+
+00001127727795sp@al.educacao.sp.gov.br
+
+@felipefariap
+
+![]( https://media1.tenor.com/m/JLCoN78uKmoAAAAC/lebron-lebron-james.gif)
